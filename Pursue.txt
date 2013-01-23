@@ -1,0 +1,5 @@
+- Running one local server PHP Version 5.3.13
+- See 'Pursue2.php' 
+- See 'Template.php'
+- Display errors was defaulted to ON (development / wamp)
+- Spent some time looking through functions on php.net/funstion, will use again

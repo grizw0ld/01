@@ -1,0 +1,24 @@
+- XHTML is extensible HTML
+	- All tags must be writeen in lower case
+	- Nested tags must be well formed (ie:<p><b>something</b></p>)
+	- tag attributes must be quoted (ie:<table border="2"></table>)
+	- tags must always be closed (ie: <br />
+	
+- I am using notepad++ 
+	- default encoding is set to ansi
+	- in my html pages I am using utf-8
+	
+- CSS stands for Cascading Style Sheet(s)
+	- CSS is used to control formatting of html documents
+	
+- The web root directoy is where you place your scripts for testing
+	- Using WAMP on windows, mine is c:\wanp\www
+
+- I am testing my PHP scripts using my web browser (chrome)
+	- browsing to http://localhost/filename.php
+	- the PHP will not be processed by the webserver
+	
+- Comments in PHP
+	- Single Line: // -or- #
+	- Multi Line: /*  */
+	
